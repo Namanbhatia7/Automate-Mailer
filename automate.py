@@ -57,6 +57,6 @@ def sendmail(candidate_name,email):
     # terminating the session
     s.quit()
 
-for i in candidate_name:
+for i in email:
     sendmail(candidate_name[i],email[i])
     
