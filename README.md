@@ -3,6 +3,11 @@ This is an automated mailer based on python . It extracts data from .xlsx file a
 
 # Modules Used
 
-Python libraries Used are openpyxl, smtp and email.
+Python libraries Used are:
+-openpyxl
+-smtp 
+-email.
+
+
 
 
